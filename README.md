@@ -139,3 +139,8 @@ ElevatedButton(
 - Data is stored in-memory only  
 - No database or persistence used  
 - Designed to be simple and lightweight  
+
+## UI Screenshots
+
+![Screenshot 1](assets/1.png)
+![Screenshot 2](assets/2.png)
