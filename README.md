@@ -1,3 +1,6 @@
+Group number 10: 22k-4460, 22k-4236, 22k-4584
+Topic: User Activity Logger
+
 # User Activity Logger
 
 A simple Dart-only Flutter package to log basic user activities such as screen views, button clicks, and login events.
